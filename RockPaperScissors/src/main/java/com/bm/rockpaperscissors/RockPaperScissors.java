@@ -3,7 +3,7 @@
  * @author Benjamin Munoz
  * email: driver396@gmail.com
  * date: Jul 27, 2021
- * purpose: (TODO)
+ * purpose: Rock Paper Scissors game for the Java Basics assessment
  */
 
 package com.bm.rockpaperscissors;
